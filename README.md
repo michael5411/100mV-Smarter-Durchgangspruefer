@@ -2,4 +2,4 @@
 # 100mV-Smarter-Durchgangspruefer:
 Dieses Gerät testet Durchgang und Widerstände bis 100Ω nur mit 100 mV. Dadurch können Verbindungen und viele Komponenten in eingebautem Zustand gecheckt werden, ohne dass Halbleiterübergänge die Messungen verfälschen. Das Messgerät gibt verschiedene Tonfolgen für unterschiedliche Widerstandsbereichen aus. Es ist programmierbar.
 
-Neue Versionen, neue Infos zum Projekt unter: **art-of-electronics.blog**
+Neue Versionen, neue Infos zum Projekt unter: **https://art-of-electronics.blog**
